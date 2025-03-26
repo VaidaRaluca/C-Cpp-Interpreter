@@ -1,0 +1,19 @@
+Function Name: addIntegers, Returned Type: int 
+Parameter Type: int, Parameter Name: first
+Parameter Type: int, Parameter Name: second
+Function is Recursive
+
+
+Function Name: divideIntegers, Returned Type: float 
+Parameter Type: int, Parameter Name: first
+Parameter Type: int, Parameter Name: second
+Function is Iterative
+(If Structure, 9)
+
+
+Function Name: main, Returned Type: int 
+Function is Iterative
+Variable Name: myFirstVariable, Variable Type: int, Variable Initial Value: 17
+Variable Name: mySecondVariable, Variable Type: int, Variable Initial Value: 45
+Variable Name: myThirdVariable, Variable Type: int, Variable Initial Value: 3
+Variable Name: myString, Variable Type: string, Variable Initial Value: 
